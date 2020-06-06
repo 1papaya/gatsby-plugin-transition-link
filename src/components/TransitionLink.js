@@ -68,7 +68,6 @@ const TransitionLink = forwardRef(
 								onClick(event, weShouldNavigate)
 							}
 						}}
-						to={to} // use gatsby link so prefetching still happens. this is prevent defaulted in triggertransition
 						ref={ref || innerRef}
 						{...rest}>
 						{children}
