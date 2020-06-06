@@ -1,5 +1,5 @@
 {
-	"name": "gatsby-plugin-transition-link",
+	"name": "@1papaya/gatsby-plugin-transition-link",
 	"version": "1.18.0",
 	"description": "A link component for page transitions in gatsby.",
 	"repository": "https://github.com/TylerBarnes/gatsby-plugin-transition-link",
@@ -42,6 +42,8 @@
 		"color-convert": "^1.9.3",
 		"json-bump": "^0.1.3",
 		"polyfill-array-includes": "^1.0.0",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
 		"react-transition-group": "^2.5.0",
 		"requestanimationframe-timer": "^1.0.4"
 	},
